@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="10" fill="#1D3752"/>
+  <circle cx="32" cy="32" r="24" fill="none" stroke="#C9A25F" stroke-width="3"/>
+  <text x="32" y="41" text-anchor="middle" font-family="'Shippori Mincho','Hiragino Mincho ProN',serif" font-size="26" fill="#F3F6F9">増</text>
+</svg>
